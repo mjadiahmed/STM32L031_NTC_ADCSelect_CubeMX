@@ -1,0 +1,2 @@
+../Drivers/SelectADC/SelectADC.c:12:10:GET_ADC	40	static
+../Drivers/SelectADC/SelectADC.c:60:10:GET_ADC_AVG	72	static
